@@ -1,0 +1,4 @@
+Cangelog for matlab implementation of Schlezinger and Flach multilabel submodular optimization
+
+v1.0 - initial version
+
